@@ -1,0 +1,12 @@
+.titulo-site {
+
+    color:#5500ff;
+    background-color: rgba(200, 50, 0, 0.3);
+    width:120px;
+}
+
+.descricao {
+
+    border:10px solid #eeffde;
+    width:330px;
+}
